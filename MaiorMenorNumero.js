@@ -1,6 +1,6 @@
 let numero=0,maior=0,menor=0,soma=0;
 
-for(i=0; i<10 ;i++){
+for(let i=0; i<10 ;i++){
     numero = +(prompt("Digite um valor:"))
     soma += numero
 
